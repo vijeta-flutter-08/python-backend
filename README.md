@@ -74,3 +74,14 @@ Demonstrates inheritance by creating an `Admin` class that extends the `User` cl
 ```
 feat: chat domain models
 ```
+
+
+
+# Python Backend - Day 1
+
+Projects:
+
+- Calculator CLI
+- Number Frequency
+- Todo CLI
+
